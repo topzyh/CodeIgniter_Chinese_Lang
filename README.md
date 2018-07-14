@@ -2,7 +2,7 @@
 ## CI框架中文语言包
 ===================
 
-> CodeIgniter框架(http://codeigniter.org/) 中文语音包(支持CI2和CI3)
+> CodeIgniter框架(http://codeigniter.org/) 中文语言包(支持CI2和CI3)
 
 #### 安装步骤
 
